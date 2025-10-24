@@ -13,6 +13,3 @@ void loop(){
 
 
 }
-
-
-uwu~
