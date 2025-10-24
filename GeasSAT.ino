@@ -8,7 +8,7 @@ bool state = false;
 void loop(){
     digitalWrite(13, state);
     state = !state;
-    delay(500);
+    delay(550);
 
 
 
